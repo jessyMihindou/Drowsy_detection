@@ -1,7 +1,8 @@
 # Détection de Fatigue avec YOLO et UAnalytics
 
 
-![Exemple de Détection de Fatigue](images/detection_fatigue_example.png)
+![Exemple de Détection de Fatigue](Drowsy_detection/data_2/images
+/drowsy(6).jpg)
 
 
 ## Présentation
