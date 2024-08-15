@@ -1,5 +1,9 @@
 # Détection de Fatigue avec YOLO et UAnalytics
 
+
+![Exemple de Détection de Fatigue](images/detection_fatigue_example.png)
+
+
 ## Présentation
 
 Ce projet vise à développer un système de détection de fatigue pour les conducteurs en utilisant des techniques avancées de reconnaissance d'images avec YOLO (You Only Look Once) et une analyse de données avec UAnalytics. Le système détecte les signes de fatigue dans les vidéos de conduite en temps réel et fournit des alertes pour améliorer la sécurité routière.
