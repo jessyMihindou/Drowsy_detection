@@ -1,8 +1,7 @@
 # Détection de Fatigue avec YOLO et UAnalytics
 
 
-![Exemple de Détection de Fatigue](Drowsy_detection/data_2/images
-/drowsy(6).jpg)
+![Exemple de Détection de Fatigue](https://files.ia.ca/-/media/files/ia/zoneconseilsv2/auto/2023/images-couleur/quoi-faire-pour-eviter-la-fatigue-au-volant.jpg)
 
 
 ## Présentation
